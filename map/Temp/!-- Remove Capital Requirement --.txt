@@ -1,0 +1,38 @@
+<!-- Remove Capital Requirement -->
+<attachment foreach="$AllPlayers$" name="playerAttachment" attachTo="@AllPlayers@" javaClass="games.strategy.triplea.attachments.PlayerAttachment" type="player">
+	<option name="retainCapitalNumber" value="0"/>
+	<option name="retainCapitalProduceNumber" value="0"/>
+	<option name="giveUnitControl" value="$AllPlayers$"/>
+	<option name="giveUnitControlInAllTerritories" value="false"/>
+</attachment>
+<attachment foreach="$Territory$" name="triggerAttachment_Germans_SurrenderTo_Russians_@Territory@_ChangeOwnership" attachTo="Germans" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
+	<option name="trigger" value="conditionAttachment_Germans_SurrenderTo_Russians"/>
+	<option name="when" value="before:germansEndTurn"/>
+	<option name="changeOwnership" value="@Territory@:Germans:Russians:false"/>
+	<option name="uses" value="1"/>
+</attachment>
+<!--  change military units canBeGivenByTerritoryTo -->
+<attachment name="triggerAttachment_canBeGivenByTerritoryTo_GermansToRussians" attachTo="Germans" javaClass="TriggerAttachment" type="player">
+	<option name="conditions" value="conditionAttachment_Germans_SurrenderTo_Russians"/>
+	<option name="unitAttachmentName" value="UnitAttachment" count="unitAttachment"/>
+	<option name="unitType" value="$AllUnits$"/>
+	<option name="unitProperty" value="canBeGivenByTerritoryTo" count="-reset-Russians"/>
+	<option name="when" value="after:germansPolitics"/>
+	<option name="uses" value="1"/>
+</attachment>
+<!--  Give unit control Germans to Russians  -->
+<attachment name="triggerAttachment_GiveUnitControl_GermansToRussians" attachTo="Germans" javaClass="TriggerAttachment" type="player">
+	<option name="conditions" value="conditionAttachment_Germans_SurrenderTo_Russians"/>
+	<option name="playerAttachmentName" value="PlayerAttachment" count="playerAttachment"/>
+	<option name="playerProperty" value="giveUnitControl" count="-reset-Russians"/>
+	<option name="when" value="after:germansPolitics"/>
+	<option name="uses" value="1"/>
+</attachment>
+ <!--  Give give captured units Germans to Russians  -->
+<attachment name="triggerAttachment_GiveUnitControlInAllTerritories_GermansToRussians" attachTo="Germans" javaClass="games.strategy.triplea.attachments.TriggerAttachment" type="player">
+	<option name="trigger" value="conditionAttachment_Germans_SurrenderTo_Russians"/>
+	<option name="when" value="after:germansPolitics"/>
+	<option name="playerAttachmentName" value="PlayerAttachment" count="playerAttachment"/>
+	<option name="playerProperty" value="giveUnitControlInAllTerritories" count="true"/>
+	<option name="uses" value="1"/>
+</attachment>

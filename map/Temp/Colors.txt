@@ -1,0 +1,68 @@
+Germany - True Medium/Dark Gray
+DanubeAxis - Brownish Gray
+Finland - Light Bluish Gray
+VichyFrance - Dark Grayish Blue
+
+USSR - Deep Red
+Mongolia - Orangish Red
+
+Japan - Dark Yellow
+
+USA - Medium/Dark Green
+Brazil - Bluish Green
+
+China - Light Green
+
+UK - True Medium/Dark Tan
+British India - Yellowish Tan
+Canada - Light Tan
+France - Deep Royal Blue
+
+Australia - Tannish Green or Greenish Tan
+
+Sweden - Bluish White
+Spain - Yellowish White
+Turkey - Reddish White
+
+Neutral - Cream
+
+AXIS
+Germany → #5A5A5A
+True medium-dark neutral gray
+DanubeAxis → #6B5A4A
+Brownish gray (warmer than Germany, clearly distinct)
+Finland → #B7C9D6
+Light bluish gray (cold, Nordic tone)
+VichyFrance → #3F4F6A
+Dark grayish blue (subdued, “occupied” feel)
+🟥 COMINTERN
+USSR → #8B1E1E
+Deep red (strong but not overly bright)
+Mongolia → #C4472D
+Orangish red (clearly tied but distinguishable)
+🟨 JAPAN
+Japan → #C9A300
+Dark yellow (avoids neon look)
+🟩 ALLIES – AMERICAS
+USA → #2F6B3A
+Medium-dark green
+Brazil → #2F8F7A
+Bluish green (teal-leaning)
+🟩 CHINA
+China → #8FBF6A
+Light green (distinct from USA)
+🟫 COMMONWEALTH / WESTERN ALLIES
+UK → #A68A5B
+True medium/dark tan
+British India → #C9A96A
+Yellowish tan (warmer than UK)
+Canada → #D8C7A3
+Light tan (clearly lighter than UK)
+France → #1F3A93
+Deep royal blue (strong identity color)
+🟫 AUSTRALIA
+Australia → #8A9B6E
+Greenish tan (earthy, distinct from USA/UK)
+🟫 ITALY
+Italy → #6B3E2E
+Brown (rich, slightly reddish)

@@ -1,0 +1,862 @@
+Acapulco-Chiapas — 3
+Adana — 1
+Addis Ababa — 1
+Aden-Yemen — 1
+Agana-Guam — 2
+Akmolinsk — 3
+Aksu-Tarim — 3
+Aktau — 3
+Aktobe — 3
+Al Fishir — 1
+Al Hasa — 1
+Al Hasakah — 1
+Al Kufrah — 1
+Albania — 3
+Alberta — 1
+Aleutian Is. — 2
+Algarve — 1
+Algiers — 5
+Almaty — 2
+Alsace — 3
+Amazonas — 2
+Ambon — 1
+Amur — 5
+Anadyr — 3
+Anchorage — 3
+Andalusia — 1
+Andaman Is. — 1
+Angola — 1
+Anhwei — 3
+Ankara — 3
+Antalya — 1
+Aragon-Catalonia — 1
+Archangelsk — 7
+Arizona-New Mexico — 3
+Ascension Is. — 1
+Asir — 1
+Astrakhan — 3
+Asturias — 1
+Athens-Cen.Greece — 3
+Atlanta-Georgia — 7
+Atyrau — 3
+Azores Is. — 1
+Baffin Is. — 1
+Baghdad — 5
+Bahamas — 1
+Bahia-Norde Este — 5
+Baja-Sonora — 1
+Baku-Azerbaijan — 7
+Bali-Sunda Is. — 1
+Balikpapan-S.Borneo — 3
+Bangkok-Siam — 5
+Barat Daya Is. — 1
+Basra — 2
+Batavia-W.Java — 2
+Bavaria — 7
+Bechuanaland — 1
+Belgian Congo — 1
+Belgium-Luxembourg — 5
+Bengal — 2
+Benghazi-Cyrenaica — 2
+Berar — 2
+Bergen-Vestland — 3
+Berlin-Cen.Germany — 9
+Bermuda — 1
+Beruit-Lebanon — 2
+Bessarabia — 3
+Bethel — 3
+Bhutan — 1
+Bhuyant Uhaa — 1
+Bialystok — 3
+Bogata-Colombia — 1
+Bohemia Moravia — 7
+Bolivia — 1
+Bombay — 2
+Bona — 1
+Boran — 1
+Bordeaux-Gascony — 9
+Boston-New England — 7
+Bratsk — 3
+Brazilian Guiana — 3
+Brest — 3
+Brisbane-Queensland — 5
+British Guiana — 1
+British Honduras — 1
+British Somaliland — 1
+Brittany — 9
+Broome-Exmouth — 1
+Bryansk — 3
+Bucharest-S.Romania — 7
+Budapest-N.Hungary — 7
+Buenos Aires — 1
+Buru — 1
+Buryatia — 3
+Cairo-Egypt — 5
+Calais-Picardy — 7
+Calcutta — 5
+Cambodia — 2
+Cameroon — 1
+Canary Is. — 1
+Cape Colony — 1
+Cape Town — 7
+Cape Verde Is. — 1
+Caracas-Venezuela — 1
+Castille-Leon — 1
+Cayman Is. — 1
+Cen.California — 9
+Cen.Mongolia — 1
+Cen.Yugoslavia — 3
+Ceylon — 2
+Chad — 1
+Chahar — 3
+Charleston-Savannah — 7
+Charlotte-Carolina — 7
+Chelyabinsk — 3
+Chengdu-Szechwan — 3
+Chernigov — 3
+Chersky — 3
+Chiang Mai — 3
+Chicago — 7
+Chihuahua-Durango — 1
+Chile — 0
+Christmas Is. — 1
+Chubu — 5
+Chukotka — 1
+Chungking — 7
+Colorado — 3
+Comoros — 1
+Cook Is. — 1
+Copenhagen-Denmark — 3
+Corsica — 2
+Costa — 1
+Crete — 3
+Crimea — 7
+Croatia — 3
+Cyprus — 2
+Da Nang-Annam — 3
+Dagestan — 3
+Dakar — 1
+Dakota — 5
+Dalarna — 1
+Dalmatia — 2
+Damascus-S.Syria — 2
+Danakil — 1
+Danzig-Posen — 3
+Darfur — 1
+Deir ez Zor — 1
+Demyansk — 3
+Diyarbakir — 1
+Dodecanese Is. — 1
+Dominican — 2
+Dovao-Mindonao — 3
+Dutch Guiana — 1
+Dutch New Guinea — 3
+Dzavhan — 1
+E.Algerian-Sahara — 1
+E.British Columbia — 1
+E.Tripolitania — 1
+Ecuador — 1
+Eire — 1
+El Alamein-Alexandria — 2
+El Salvador — 2
+Ellice Is. — 1
+Eritrea — 1
+Erzurum — 1
+Estonia — 3
+Evenkia — 3
+Extramadura — 1
+Fairbanks — 1
+Falkland Is. — 1
+Fars — 1
+Fezzan — 1
+Fiji — 1
+Florida — 7
+Frankfurt-Hesse — 9
+French Dahomey — 1
+French Guiana — 1
+French Guinea — 1
+French Somaliland — 1
+Gabon — 1
+Galapagos Is. — 1
+Galicia — 1
+Gibraltar — 1
+Gilan — 1
+Gizhiga — 3
+Gold Coast — 1
+Gotland — 1
+Gran Chaco — 1
+Grand Erg — 1
+Greenland — 1
+Grodno — 3
+Grozny-Chechnya — 3
+Guatemala — 2
+Gujarat — 1
+Haditha-Rutbah — 1
+Haichow-Lunghai — 3
+Haikou-Hainan — 2
+Hail — 1
+Hailar-Hsingan — 1
+Halfa — 1
+Halifax-Nova Scotia — 7
+Halmahera-Maluku Is. — 1
+Hamadan — 1
+Hamburg-Lower Saxony — 9
+Hanoi-Tonkin — 3
+Harbin — 3
+Havana-Cuba — 2
+Hawaiian Is. — 2
+Helsinki — 7
+Herat — 1
+Himalayas — 0 (impassable)
+Hiroshima — 7
+Hokkaido — 3
+Honduras — 3
+Hong Kong-Kwangtung — 5
+Honolulu-Pearl Harbor — 7
+Hopei — 3
+Hunan — 3
+Hyderabad — 2
+Iceland — 1
+Idaho — 3
+Irkutsk — 9
+Isfahan — 1
+Istanbul — 1
+Istria — 9
+Italian Somaliland — 2
+Ivory Coast — 1
+Iwo Jima-Bonin Is. — 3
+Jamaica — 1
+Jehol-Rehe — 3
+Johnston Is. — 1
+Jordan — 1
+Juba-S.Sudan — 1
+Juneau — 3
+Jutland — 3
+Kabul — 1
+Kalahari — 1
+Kamchatka — 3
+Kanchow — 3
+Kandahar — 1
+Kansas-Oklahoma — 5
+Karachi — 5
+Karelia — 2
+Kashmire — 2
+Katanga — 1
+Kazan — 3
+Kendari-E.Celebs — 3
+Kentucky-Tennessee — 3
+Kenya — 1
+Kerman — 1
+Khabarovsk — 3
+Khanty-Mansiysk — 7
+Kharga-Western Desert — 1
+Kharkiv — 3
+Khartoum-Sudan — 1
+Kherson — 7
+Khorasan — 1
+Kiangsi — 3
+Kiev-Cen.Ukraine — 5
+Kilwa — 1
+King Salmon-Aleut Pen. — 3
+Kirov — 3
+Kjolen — 1
+Kodiak Is. — 2
+Kolyma — 1
+Komi — 3
+Konduz — 1
+Konigsberg-E.Prussia — 7
+Konya — 1
+Koryak — 3
+Kosice-Munkacs — 3
+Kra-Buri — 3
+Krakow-Lublin — 3
+Krasnodar — 3
+Krasnoyarsk — 3
+Kunming — 3
+Kurgan — 3
+Kursk-Vorozneh — 3
+Kuwait — 1
+Kuybysev — 7
+Kwangsi — 3
+Kweichow — 3
+Kyoto-Osaka — 9
+Kyrgyzstan-Tajikistan — 1
+Kyushu — 9
+Labrador — 1
+Lagos-S.Nigeria — 2
+Lanzhou — 3
+Laos — 3
+Lapland — 3
+Lashio-Shan State — 1
+Latgale — 3
+Latvia — 3
+Leeward Is. — 1
+Leningrad — 9
+Leopoldville-Kinshasa — 1
+Leyte-Visayas Is. — 3
+Liberia — 1
+Lindi — 1
+Line Is. — 1
+Lisbon — 2
+Lithuania — 3
+London-S.England — 9
+Lorraine — 3
+Lucknow-Oudh — 1
+Lviv — 3
+Madagascar — 1
+Madeira Is. — 1
+Madras — 5
+Madrid-Cen.Spain — 3
+Magadan — 3
+Majorca — 1
+Makassar-S.Celebs — 3
+Malaya — 3
+Maldives — 1
+Malta — 2
+Manado-N.Celebs — 3
+Manchuria-Manchukuo — 3
+Manila-Luzon — 5
+Maputo-S.Mozambique — 1
+Maracaju — 2
+Mariupol — 5
+Marquesas Is. — 1
+Marshall Is. — 1
+Mato Grosso — 2
+Mauritania — 1
+Mazandaran — 1
+Mecca — 3
+Meckleburg — 9
+Medan-W.Sumatra — 5
+Medina-Jeddah — 1
+Melbourne-Victoria — 3
+Mexico City — 3
+Michigan-Indiana — 9
+Midway Is. — 2
+Milan-N.Italy — 9
+Mindoro Is. — 1
+Minsk — 7
+Mobile-Alabama — 7
+Mogadishu — 1
+Mogilev — 3
+Moldavia — 3
+Montana — 3
+Montenegro — 3
+Monterrey — 2
+Morocco — 1
+Moscow-Cen.Russia — 9
+Mosul-Kirkuk — 2
+Mozhaysk-Kaluga — 3
+Mukden-Port Arthur — 5
+Murmansk — 1
+Muscat — 1
+N.Burma — 2
+N.California — 9
+N.England — 9
+N.Ireland — 9
+N.Korea — 3
+N.Mozambique — 1
+N.New Zealand — 3
+N.Nigeria — 1
+N.Ontario — 1
+N.Quebec — 1
+N.Rhodesia — 1
+N.Sakhalin — 2
+N.Transylvania — 1
+Nafud — 1
+Nagpur — 2
+Nanking — 3
+Naples-S.Italy — 9
+Narvik — 3
+Navarre — 1
+Nebraska — 3
+Nejd — 1
+Nenetsia — 1
+Nepal — 1
+Netherlands — 2
+Nevada — 3
+New Britain Is. — 2
+New Caledonia Is. — 1
+New Delhi — 2
+New Guinea — 3
+New Hebrides Is. — 1
+New Orleans-Louisiana — 7
+New South Wales — 9
+New York-New Jersey — 9
+Niamey — 1
+Nicaragua — 2
+Nizhny Novgorod — 3
+Nome — 1
+Normandy — 5
+Norrland — 1
+Norte — 1
+Northern Territory — 3
+Northwest Territories — 1
+Novgorod — 3
+Novosibirsk — 3
+Nunavut — 1
+Odesa-Mykoliav — 9
+Ogoden — 1
+Ohio — 7
+Okinawa-Ryukyu Is. — 5
+Olgiy — 1
+Oman — 1
+Omsk — 7
+Oran — 1
+Orissa — 2
+Orleans — 3
+Oslo — 5
+Ottawa-Montreal — 7
+Ouargla — 1
+Outback — 1
+Palawan — 1
+Palembang-S.Sumatra — 3
+Palestine — 1
+Palmyra Atoll — 1
+Pampas — 1
+Panama — 3
+Paraguay — 1
+Paris-Cen.France — 9
+Patagonia — 1
+Peking-Tientsin — 3
+Peleliu-Palau Is. — 1
+Peleponnese — 3
+Pennsylvania — 9
+Perm — 3
+Perth-W.Australia — 2
+Peru — 1
+Phoenix Is. — 1
+Pinsk — 3
+Ploiesti-E.Romania — 3
+Poitou — 5
+Pomerania — 9
+Port Au Prince-Haiti — 2
+Port Moresby-Papua — 5
+Portland-Oregon — 7
+Portuguese Guinea — 1
+Primorsky — 3
+Provence-Marseille — 7
+Pskov — 3
+Punjab — 2
+Qatar — 1
+Quebec City-C.Quebec — 2
+Rajputana — 1
+Rangoon-S.Burma — 1
+Rhodesia — 1
+Rio De Oro — 1
+Rio Grande do Sul — 3
+Riyadh — 1
+Rome-Cen.Italy — 9
+Rostov — 7
+Rub Al Kali — 1
+Ryazan — 3
+Rzeszow — 3
+Rzhev — 3
+S. Korea — 3
+S.Australia — 3
+S.California — 9
+S.Hijaz — 1
+S.New Zealand — 2
+S.Quebec — 1
+S.Rhodesia — 1
+S.Sakhalin — 2
+S.Transylvania — 2
+Saigon-Cochinchina — 2
+Saipan-Mariana Is. — 3
+Sakha — 1
+Samoan Is. — 1
+San Juan-Puerto Rico — 1
+Santiago-Guantanamo — 2
+Sao Paulo — 3
+Sarajevo-Bosnia — 3
+Sarawak-N.Borneo — 3
+Sardinia — 3
+Savo-Ostrobothnia — 3
+Schleswig-Holstein — 3
+Scotland — 9
+Seattle-Washington — 7
+Seychelles — 1
+Shanghai-Kiangsu — 5
+Shangtung — 3
+Shensi — 3
+Shetland Is. — 1
+Shikoku — 5
+Siberia — 9
+Sicily — 5
+Sierra Leone — 1
+Sikang — 3
+Silesia — 3
+Sinai — 1
+Sinaloa-Guadalajara — 2
+Singapore-Malacca — 5
+Sinkiang — 3
+Sistan-Baluchestan — 1
+Sitka — 2
+Siuyuyan — 1
+Slovakia — 2
+Slovenia-N.Croatia — 3
+Smolensk — 3
+Smyrna — 1
+Society Is. — 1
+Sofia-W.Bulgaria — 3
+Solomon Is. — 3
+Southwest Africa — 1
+Spanish Gabon — 1
+St.Johns-Newfoundland — 1
+St.Louis-Arkansas — 3
+Stalingrad-Volga — 9
+Stavropol — 3
+Stockholm — 2
+Surabaya-E.Java — 1
+Svalbard — 1
+Svealand — 1
+Switzerland — 0
+Tabriz — 1
+Taipei-Formosa — 3
+Tanganyika — 1
+Tangier — 1
+Tanimbar Is. — 1
+Tarakan-E.Borneo — 3
+Tarawa-Gilbert Is. — 1
+Tasmania — 1
+Taymyr — 1
+Tbilisi-Georgia — 1
+Tehran — 2
+Tenere — 0 (impassable)
+Texas — 9
+Thessaloniki — 3
+Thrace — 3
+Tibesti — 0 (impassable)
+Timbuktu-Mali — 1
+Timor — 1
+Tobruk — 1
+Tohoku — 5
+Tokyo — 9
+Tomsk — 9
+Toronto-S.Ontario — 9
+Toulouse-Occitania — 3
+Transdanubia — 3
+Transvaal — 1
+Trebizond — 1
+Troms-Finnmark — 1
+Trondheim — 3
+Trucial Coast — 1
+Truk-Coraline Is. — 7
+Tsagaan Olom — 1
+Tsinghai — 3
+Tula — 5
+Tunis-Tunisia — 5
+Turkmenistan — 3
+Tver — 3
+Tyrol-S.Austria — 7
+Tyumen — 3
+Ubangi Sheri — 1
+Udon Thani — 3
+Uelen — 1
+Uganda — 1
+Ulaanbaatar — 1
+Upper Egypt — 1
+Upper Volta — 1
+Uruguay — 1
+Urumchi-Kansu — 5
+Utah — 3
+Uzbekistan — 3
+Valencia — 1
+Varna — 3
+Venice-Trieste — 9
+Veracruz — 2
+Vichy-Rhone — 5
+Victoria — 1
+Vienna-N.Austria — 9
+Vilna — 3
+Virginia — 7
+Vitebsk — 5
+Vladivostok — 5
+Vogelkop Pen. — 3
+Vologda — 3
+Vyborg — 3
+W.Algerian-Sahara — 1
+W.British Columbia — 7
+W.Nunavut — 1
+W.Tripolitania — 5
+Wake Is. — 2
+Wales — 7
+Warsaw-Cen.Poland — 7
+Washington D.C. — 9
+Westphalia-Rhineland — 9
+Windhoek — 1
+Windward Is. — 1
+Winnipeg — 1
+Wisconsin-Minnesota — 3
+Wuhan — 3
+Wurttemburg — 9
+Wyoming — 3
+Yakutia — 3
+Yakutsk — 3
+Yamalia — 1
+Yanaon — 1
+Yaroslavl — 3
+Yucatan — 2
+Yukon — 1
+Yunnan — 3
+Yuzhny-Novaya Zemlya — 1
+Zanzibar — 1
+
+🇩🇪 Germany — Total Units: 170
+
+(high readiness, fully mobilized war machine)
+
+Berlin-Central Germany – 22
+(10 infantry, 4 artillery, 4 tanks, 4 fighters)
+
+Prussia – 10
+(8 infantry, 2 artillery)
+
+Bavaria – 8
+(8 infantry)
+
+Austria – 10
+(8 infantry, 2 tanks)
+
+Bohemia-Moravia – 10
+(6 infantry, 2 artillery, 2 tanks)
+
+France (Paris core) – 14
+(8 infantry, 3 artillery, 3 tanks)
+
+Northern France (Normandy/Brittany split) – 10
+(10 infantry)
+
+Low Countries – 10
+(8 infantry, 2 artillery)
+
+Poland West – 10
+(8 infantry, 2 tanks)
+
+Norway – 6
+(6 infantry)
+
+Denmark – 4
+(4 infantry)
+
+Baltic Fleet – 14
+(1 battleship, 2 cruisers, 3 destroyers, 4 submarines, 4 transports)
+
+Mediterranean Fleet – 10
+(1 carrier, 1 battleship, 2 cruisers, 2 destroyers, 2 submarines, 2 transports)
+
+Air Force – 22
+(12 fighters, 6 tactical bombers, 4 bombers)
+
+🇯🇵 Japan — Total Units: 162
+
+(very high operational tempo, optimized strike forces)
+
+Tokyo – 22
+(10 infantry, 4 artillery, 4 tanks, 4 fighters)
+
+Kyoto-Osaka – 10
+(8 infantry, 2 tanks)
+
+Hokkaido – 6
+(6 infantry)
+
+Kyushu – 8
+(6 infantry, 2 fighters)
+
+Korea – 10
+(8 infantry, 2 artillery)
+
+Manchuria – 14
+(10 infantry, 2 artillery, 2 tanks)
+
+Northern China – 18
+(12 infantry, 4 artillery, 2 tanks)
+
+Southern China – 10
+(10 infantry)
+
+Pacific Island Chain – 14
+(14 infantry)
+
+Combined Fleet (home waters) – 22
+(1 carrier, 1 battleship, 2 cruisers, 4 destroyers, 5 submarines, 3 transports, 6 air)
+
+Forward Strike Fleet – 10
+(2 carriers, 4 fighters, 2 destroyers, 2 submarines)
+
+Air Arm – 18
+(10 fighters, 6 tactical bombers, 2 bombers)
+
+🇬🇧 United Kingdom — Total Units: 156
+
+(global empire stretched thin, not fully optimized)
+
+London – 18
+(10 infantry, 3 artillery, 3 fighters, 2 AA)
+
+Northern England – 8
+(8 infantry)
+
+Scotland – 6
+(6 infantry)
+
+Egypt – 12
+(8 infantry, 2 artillery, 2 tanks)
+
+India – 14
+(10 infantry, 2 artillery, 2 fighters)
+
+Singapore – 6
+(6 infantry)
+
+South Africa – 6
+(6 infantry)
+
+West Africa – 6
+(6 infantry)
+
+Canada – 8
+(8 infantry)
+
+Mediterranean Fleet – 16
+(1 carrier, 1 battleship, 3 cruisers, 4 destroyers, 3 submarines, 4 transports)
+
+Atlantic Fleet – 16
+(1 carrier, 1 battleship, 3 cruisers, 4 destroyers, 3 submarines, 4 transports)
+
+Air Force – 20
+(10 fighters, 6 tactical bombers, 4 bombers)
+
+🇷🇺 USSR — Total Units: 168
+
+(large but partially unprepared, defensive posture)
+
+Moscow – 24
+(12 infantry, 4 artillery, 4 tanks, 4 fighters)
+
+Leningrad – 14
+(10 infantry, 2 artillery, 2 fighters)
+
+Kiev – 12
+(10 infantry, 2 tanks)
+
+Stalingrad – 12
+(10 infantry, 2 tanks)
+
+Caucasus – 10
+(8 infantry, 2 tanks)
+
+Smolensk – 10
+(10 infantry)
+
+Ural Zone – 10
+(10 infantry)
+
+Siberia West – 10
+(10 infantry)
+
+Siberia East – 8
+(8 infantry)
+
+Far East – 6
+(6 infantry)
+
+Baltic Fleet – 12
+(1 battleship, 2 cruisers, 3 destroyers, 3 submarines, 3 transports)
+
+Black Sea Fleet – 12
+(1 carrier, 1 battleship, 2 cruisers, 3 destroyers, 2 submarines, 3 transports)
+
+Air Force – 28
+(16 fighters, 8 tactical bombers, 4 bombers)
+
+🇺🇸 USA — Total Units: 176
+
+(large but demobilized / defensive / scattered production)
+
+Washington DC – 22
+(12 infantry, 4 artillery, 3 tanks, 3 fighters)
+
+New York – 16
+(10 infantry, 4 artillery, 2 fighters)
+
+Midwest – 14
+(14 infantry)
+
+Texas – 12
+(10 infantry, 2 tanks)
+
+California – 14
+(10 infantry, 2 fighters, 2 artillery)
+
+Alaska – 6
+(6 infantry)
+
+Hawaii – 8
+(4 infantry, 1 carrier, 3 fighters)
+
+Philippines – 8
+(8 infantry)
+
+Pacific Fleet – 30
+(2 carriers, 3 battleships, 5 cruisers, 6 destroyers, 6 submarines, 8 transports)
+
+Atlantic Fleet – 22
+(1 carrier, 2 battleships, 3 cruisers, 5 destroyers, 5 submarines, 6 transports)
+
+Air Force – 24
+(12 fighters, 6 tactical bombers, 6 bombers)
+
+🇮🇹 Italy — Total Units: 154
+
+(overextended but concentrated Mediterranean force)
+
+Rome – 18
+(10 infantry, 3 artillery, 3 fighters, 2 tanks)
+
+Milan – 8
+(8 infantry)
+
+Naples – 8
+(8 infantry)
+
+Sicily – 6
+(6 infantry)
+
+Sardinia – 4
+(4 infantry)
+
+Libya – 16
+(10 infantry, 4 artillery, 2 tanks)
+
+East Africa – 8
+(8 infantry)
+
+Mediterranean Fleet – 22
+(1 carrier, 1 battleship, 4 cruisers, 5 destroyers, 4 submarines, 7 transports)
+
+Air Force – 14
+(8 fighters, 4 tactical bombers, 2 bombers)
+
+Colonial garrisons – 50
+(50 infantry distributed)
+
+⚖️ FINAL STARTING UNIT TOTALS
+🇩🇪 Germany — 170
+🇯🇵 Japan — 162
+🇬🇧 UK — 156
+🇷🇺 USSR — 168
+🇺🇸 USA — 176
+🇮🇹 Italy — 154
+⚖️ DESIGN RESULT (IMPORTANT)
+
+This version creates a true Sept 1940 war-state balance:
+
+Axis strengths:
+Immediate offensive cohesion (Germany/Japan)
+Concentrated armor + air power
+Faster early tempo (turn 1–3 dominance window)
+Allied strengths:
+Higher total but less efficiency
+More scattered holdings
+Requires mobilization turns to match Axis tempo
